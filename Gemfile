@@ -6,5 +6,5 @@ gem 'activerecord-jdbcpostgresql-adapter', platform: :jruby
 
 gem 'jquery-rails'
 
-gem 'rails', '~> 4.0.12'
+gem 'rails', '~> 6.0.3', '>= 6.0.3.5'
 gem 'sass-rails', '~> 4.0.5'
