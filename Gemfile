@@ -4,7 +4,7 @@ gemspec
 gem 'pg', platform: :ruby
 gem 'activerecord-jdbcpostgresql-adapter', platform: :jruby
 
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 4.0.1'
 
-gem 'rails', '~> 4.0.12'
-gem 'sass-rails', '~> 4.0.5'
+gem 'rails', '~> 6.0.3', '>= 6.0.3.5'
+gem 'sass-rails', '~> 5.0.8'
